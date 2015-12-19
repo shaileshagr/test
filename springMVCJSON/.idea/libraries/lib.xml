@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/jackson-core-asl-1.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-security-web-3.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-security-core-3.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/jackson-mapper-asl-1.9.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-security-config-3.2.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/target/SpringMVCJSON/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

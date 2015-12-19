@@ -1,0 +1,7 @@
+WARNING=DO NOT MODIFY THIS FILE IF YOU DON'T UNDERSTAND
+defaultDestination=C\:/apache/apache-tomcat-7.0.62/webapps
+defaultVariables=
+eclipse.preferences.version=1
+includeTeamPrivateFiles=false
+map|0=target|,|*.war|,|,
+useCurrentDateForDestinationFiles=false
